@@ -1,0 +1,35 @@
+src/Klaviyo/Gateway/Translator/NewsletterSubscriberPropertiesTranslator.php
+  cf1d591647a37c36 21-24
+src/Klaviyo/Gateway/Translator/SubscribersToKlaviyoRequestsTranslator.php
+  cf1d591647a37c36 52-55
+src/Klaviyo/Gateway/Translator/RealSubscribersToKlaviyoRequestsTranslator.php
+  cf1d591647a37c36 57-60
+docs/plans/newsletter-language-sync.md
+  cf1d591647a37c36 18-77
+src/Klaviyo/Gateway/KlaviyoGateway.php
+  cf1d591647a37c36 405
+src/Model/UseCase/Operation/SubscriberSyncOperation.php
+  cf1d591647a37c36 134
+src/Utils/LocaleCodeProducer.php
+  cf1d591647a37c36 42-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.1",
+  "base_commit_sha": "cb0c9e50b0934271f7cf7b2f752895e182528906",
+  "prompts": {
+    "cf1d591647a37c36": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1b3af3c6-3364-4f95-ab0d-fcdb91fe88f0",
+        "model": "default"
+      },
+      "human_author": "Geanna Flavetta",
+      "messages": [],
+      "total_additions": 33,
+      "total_deletions": 71,
+      "accepted_lines": 33,
+      "overriden_lines": 0
+    }
+  }
+}
